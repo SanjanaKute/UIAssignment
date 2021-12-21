@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question5.css">
+<title>Question5CSS</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        </tr>
+        <tr>
+        <td>peter</td>
+        <td>Griffin</td>
+    </tr>
+    <tr>
+        <td>Lois</td>
+        <td>Griffin </td>
+    </tr>
+</table>
+</body>
+</html>
+
+
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}

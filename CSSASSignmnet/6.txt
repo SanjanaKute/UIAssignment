@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question6.css">
+<title>Question7CSS</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Savings</th>
+        </tr>
+    <tr>
+        <td>peter</td>
+        <td>Griffin </td>
+        <td>$100</td>
+    <tr>
+        <td>Lois</td>
+        <td>Griffin</td>
+        <td>$100</td>
+    </tr>
+    <tr>
+        <td>Joe</td>
+        <td>Swanson </td>
+        <td>$300</td>
+    <tr>
+        <td>Cleveland</td>
+        <td>Brown</td>
+        <td>$250</td>
+    </tr>
+        
+</table>
+</body>
+</html>
+
+
+
+
+table,th,td{
+    
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-color: green;
+}
+th{
+    background-color: green;
+}

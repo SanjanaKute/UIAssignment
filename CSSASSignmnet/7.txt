@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question7.css">
+<title>Question7CSS</title>
+</head>
+<body>
+
+<p class="dotted"><strong>Note:</strong> IE8 supports the outline properties only id !DOCTYPE is specifed</p>
+
+</body>
+</html>
+
+p.dotted{
+    
+        border-style: dotted;
+        border-color: lawngreen;
+}

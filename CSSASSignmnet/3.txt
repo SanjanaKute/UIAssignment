@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question3.css">
+<title>Question3CSS</title>
+</head>
+<body>
+<h1>THIS IS SOME TEXT.</h1>
+<h2>This is some text.</h2>
+<h2>This is some text.</h2>
+</body>
+</html>
+
+body{
+    background-color: lightblue;
+}
+h1{
+    color: black;
+}

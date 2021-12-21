@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question2.css">
+<title>Question2CSS</title>
+
+</head>
+<body>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+
+
+</body>
+ 
+</html>
+
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+  
+    
+
+}
+h2{
+    color: black;
+    text-decoration:line-through;
+  
+    
+}
+h3{
+    text-decoration: underline;
+   
+}
+h4{
+
+    color: #000;
+   
+}

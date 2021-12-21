@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/CSSAssignmnt/question4.css">
+<title>Question4CSS</title>
+</head>
+<body>
+<a href="https://google.com">This is the link</a>
+</body>
+</html>
+
+
+
+a:link{
+    color: green;
+}
+a:visited{
+    color: pink;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+}
